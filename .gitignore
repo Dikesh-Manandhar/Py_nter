@@ -3,3 +3,14 @@ __pycache__/
 *.png
 pdfs/
 desktop.ini
+.DS_Store
+
+# Exclude reports, PDFs, and docs from paint app
+*.pdf
+*.docx
+pynter/paint/AI_REPORT_INSTRUCTIONS.md
+pynter/paint/PIXEL_CRAFT_REPORT.md
+pynter/paint/REPORT.md
+pynter/paint/generate_report_pdf.py
+pynter/paint/my_painting.png
+pynter/paint/syllabus.pdf

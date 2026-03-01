@@ -1,0 +1,11 @@
+# Pixel-Craft Python Version — Dependencies
+#
+# Install with:   pip install -r requirements.txt
+#
+# pygame is the only external dependency. It provides:
+#   - Window creation and display management
+#   - 2D drawing primitives (circles, rectangles, lines, pixels)
+#   - Event handling (mouse, keyboard)
+#   - Image loading and saving
+
+pygame>=2.5.0
